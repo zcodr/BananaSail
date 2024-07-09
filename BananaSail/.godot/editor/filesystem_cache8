@@ -1,0 +1,45 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1720507203
+default_env.tres::Environment::2930882305129094981::1720507135::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1719600894::0::1::::<><>::
+icon.png::CompressedTexture2D::6950269747270153375::1719436449::1720397380::1::::<><>::
+::res://Assets/::1720507135
+801cb649-cc62-423d-90fc-cf1952c81974.sketchpad (1).png::CompressedTexture2D::2286815238188877120::1719600147::1720397381::1::::<><>::
+801cb649-cc62-423d-90fc-cf1952c81974.sketchpad (2).png::CompressedTexture2D::8909084677685026944::1719600456::1720397381::1::::<><>::
+801cb649-cc62-423d-90fc-cf1952c81974.sketchpad.png::CompressedTexture2D::6936544967755778075::1719600087::1720397381::1::::<><>::
+Banana.glb::PackedScene::2823869333367917309::1719446608::1720397381::1::::<><>::
+Blue.material::StandardMaterial3D::-1::1719504822::0::1::::<><>::
+brownDark.material::StandardMaterial3D::-1::1719588196::0::1::::<><>::
+Donut.glb::PackedScene::4960277399834610070::1719504626::1720397381::1::::<><>::
+gentle-ocean-waves-fizzing-bubbles-64980.mp3::AudioStreamMP3::8831296268813759068::1719515457::1720397380::1::::<><>::
+Green.material::StandardMaterial3D::-1::1719504627::0::1::::<><>::
+LightYellow.material::StandardMaterial3D::-1::1719504626::0::1::::<><>::
+ocean-waves-crashing-113-164117.mp3::AudioStreamMP3::2850266078308998329::1719501316::1720397380::1::::<><>::
+PalePink.material::StandardMaterial3D::-1::1719504627::0::1::::<><>::
+pickupCoin (1).wav::AudioStreamWAV::5973320217117759070::1719598519::1720397381::1::::<><>::
+powerUp (1).wav::AudioStreamWAV::6299694369489827678::1719598860::1720397381::1::::<><>::
+powerUp.wav::AudioStreamWAV::955485464015726845::1719594252::1720397381::1::::<><>::
+Red.material::StandardMaterial3D::-1::1719504627::0::1::::<><>::
+s.material::StandardMaterial3D::-1::1719520090::0::1::::<><>::
+Screenshot 2024-07-08 at 11.29.07 PM.png::CompressedTexture2D::1806904229773383260::1720506671::1720506674::1::::<><>::
+Screenshot_2024-06-28_103011-removebg-preview.png::CompressedTexture2D::5348635622978702863::1719595863::1720397380::1::::<><>::
+Sword.glb::PackedScene::7792997162475110087::1719520090::1720397381::1::::<><>::uid://1v5rotg57uc8::::res://Assets/Sword_Image_0.png
+Sword_Image_0.png::CompressedTexture2D::1870114500695643925::1720397381::1720397382::1::::<><>::
+Water.gdshader::Shader::-1::1720507135::0::1::::<><>::
+yellow.material::StandardMaterial3D::-1::1719588197::0::1::::<><>::
+::res://Assets/super-playful-font/::1720397380
+info.txt::TextFile::-1::1719590244::0::1::::<><>::
+SuperPlayful-e91WO.ttf::FontFile::8999230874088610552::1719590244::1720397380::1::::<><>::
+::res://Scenes/::1720507135
+FinishScreen.tscn::PackedScene::1169692665707360532::1720507116::0::1::::<><>::uid://d1hkaupmwrr1y::::res://Assets/super-playful-font/SuperPlayful-e91WO.ttf<>res://Scripts/FinishScreen.gd<>uid://dx27foekbf80o::::res://Assets/gentle-ocean-waves-fizzing-bubbles-64980.mp3<>uid://00jpiwvaytfg::::res://Assets/Screenshot 2024-07-08 at 11.29.07 PM.png
+Main.tscn::PackedScene::3100867257925757548::1720507102::0::1::::<><>::uid://bpi1aj1k5vgff::::res://Scenes/Player.tscn<>res://Scripts/Main.gd<>uid://d1hkaupmwrr1y::::res://Assets/super-playful-font/SuperPlayful-e91WO.ttf<>uid://cig6in3re18kh::::res://Assets/Screenshot_2024-06-28_103011-removebg-preview.png<>uid://crdryghqirtjy::::res://Assets/pickupCoin (1).wav<>uid://cv0vbta25yg3o::::res://Assets/powerUp (1).wav
+Player.tscn::PackedScene::3457347515478336015::1720507135::0::1::::<><>::res://Assets/yellow.material<>res://Assets/brownDark.material<>res://Scripts/Player.gd<>uid://bguxp3s8dqm62::::res://Assets/ocean-waves-crashing-113-164117.mp3
+Ring.tscn::PackedScene::-1::1720397360::0::1::::<><>::res://Scripts/Ring.gd<>res://Assets/powerUp.wav
+TitleScreen.tscn::PackedScene::7347388861778934851::1720507101::0::1::::<><>::uid://d1hkaupmwrr1y::::res://Assets/super-playful-font/SuperPlayful-e91WO.ttf<>res://Scripts/TitleScreen.gd<>uid://dx27foekbf80o::::res://Assets/gentle-ocean-waves-fizzing-bubbles-64980.mp3<>uid://00jpiwvaytfg::::res://Assets/Screenshot 2024-07-08 at 11.29.07 PM.png
+::res://Scripts/::1720506903
+FinishScreen.gd::GDScript::-1::1720506903::0::1::::<>Control<>::
+Global.gd::GDScript::-1::1720397453::0::1::::<>Node<>::
+Main.gd::GDScript::-1::1720397453::0::1::::<>Node3D<>::
+Player.gd::GDScript::-1::1720398157::0::1::::<>CharacterBody3D<>::
+Ring.gd::GDScript::-1::1720397359::0::1::::<>StaticBody3D<>::
+TitleScreen.gd::GDScript::-1::1720506893::0::1::::<>Control<>::

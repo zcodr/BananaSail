@@ -4,5 +4,3 @@ res://Assets/Water.gdshader
 res://Scenes/TitleScreen.tscn
 res://Scenes/FinishScreen.tscn
 res://Scenes/Player.tscn
-res://Scripts/FinishScreen.gd
-res://Scripts/Ring.gd

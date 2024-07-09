@@ -18,7 +18,7 @@ config/features=PackedStringArray("4.2")
 boot_splash/bg_color=Color(0.054902, 0.529412, 0.8, 1)
 boot_splash/image="res://Assets/801cb649-cc62-423d-90fc-cf1952c81974.sketchpad (2).png"
 boot_splash/use_filter=false
-config/icon="res://icon.png"
+config/icon="res://Assets/801cb649-cc62-423d-90fc-cf1952c81974.sketchpad (2).png"
 
 [autoload]
 
@@ -26,6 +26,7 @@ Global="*res://Scripts/Global.gd"
 
 [display]
 
+window/size/mode=3
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 window/size/fullscreen=true
